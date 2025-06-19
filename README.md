@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+shadcn-dashboard-exploration
+https://github.com/jonbrick/shadcn-dashboard-exploration
+This project is a proof-of-concept Next.js application exploring drag-and-drop functionality for reorderable dashboard cards using @dnd-kit libraries and shadcn/ui components, demonstrated through a banking application interface.
+
 <!--
 **jonbrick/jonbrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
