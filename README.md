@@ -8,6 +8,26 @@
 
 ## 🔭 I’m currently working on ...
 
+### [recharts-demo](https://github.com/jonbrick/recharts-demo)
+
+This Next.js dashboard builder demo visualizes engineering metrics from GitHub PRs, PagerDuty incidents, and GitHub Actions with three interactive cards (metrics, charts, tables), overlay comparisons, and real-time URL state synchronization for instant sharing of any dashboard configuration.
+
+### [notion-task-maker](https://github.com/jonbrick/notion-task-maker)
+
+This Node.js automation tool scans Apple Notes for notes titled "#Work" or "#Personal", extracts all text lines as tasks, uses Claude AI to categorize them into health/work/personal types, creates organized Notion database entries, and cleans up the original notes while preserving comments.
+
+### [notion-week-summarizer](https://github.com/jonbrick/notion-week-summarizer)
+
+This Node.js automation script connects to Notion and Claude AI to automatically generate concise weekly summaries of completed tasks by category, turning your task lists into professional recap content for retrospectives.
+
+### [figma-text-styles-mapper](https://github.com/jonbrick/figma-text-styles-mapper)
+
+This Figma plugin parses CSS code with Tailwind @apply directives to extract and display which Tailwind utility classes are used by each CSS selector, providing structured JSON output for design system analysis.
+
+### [figma-variables-mapper](https://github.com/jonbrick/figma-variables-mapper)
+
+This Figma plugin automates the creation of theme variables by parsing CSS @theme files and mapping them to existing design tokens with library references, supporting light/dark modes, sentiment-based variable lifecycle management, and performance optimization for large collections.
+
 ### [figma-collection-variable-key-extractor](https://github.com/jonbrick/figma-collection-variable-key-extractor)
 
 This Figma plugin extracts variable keys from any local or library collection and exports them as JSON mappings (variable-name → key), enabling other tools to programmatically import Figma variables using their unique keys.
