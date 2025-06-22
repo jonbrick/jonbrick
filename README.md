@@ -8,6 +8,10 @@
 
 ## 🔭 I’m currently working on ...
 
+### [calendar-sleep-sync](https://github.com/jonbrick/calendar-sleep-sync)
+
+This Node.js automation system fetches Oura sleep sessions via Personal Access Token, stores comprehensive biometric data (sleep stages, HRV, heart rate) in Notion databases with intelligent "Night of Date" attribution logic, and creates categorized Google Calendar events on separate Early Bird vs Night Owl calendars based on wake times, enabling visual sleep pattern tracking through a two-script pipeline that transforms raw sleep data into organized calendar scheduling with rich health analytics.
+
 ### [calendar-workout-sync](https://github.com/jonbrick/calendar-workouts-sync)
 
 This Node.js automation system fetches Strava workouts via OAuth, stores comprehensive fitness data in Notion databases with week-based processing, and creates rich Google Calendar events with workout details like duration, distance, and activity type, enabling visual fitness tracking through a two-script pipeline that transforms raw workout data into organized calendar scheduling.
