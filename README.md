@@ -4,9 +4,13 @@
 
 ## 💼 I’m currently working at ...
 
-[Cortex.io](https://www.cortex.io/)
+### [Cortex.io](https://www.cortex.io/)
 
 ## 🔭 I’m currently working on ...
+
+### [calendar-workout-sync](https://github.com/jonbrick/calendar-workouts-sync)
+
+This Node.js automation system fetches Strava workouts via OAuth, stores comprehensive fitness data in Notion databases with week-based processing, and creates rich Google Calendar events with workout details like duration, distance, and activity type, enabling visual fitness tracking through a two-script pipeline that transforms raw workout data into organized calendar scheduling.
 
 ### [recharts-demo](https://github.com/jonbrick/recharts-demo)
 
