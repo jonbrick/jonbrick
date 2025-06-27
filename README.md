@@ -8,6 +8,10 @@
 
 ## 🔭 I’m currently working on ...
 
+### [calendar-github-sync](https://github.com/jonbrick/calendar-github-sync)
+
+This Node.js automation system fetches GitHub commits via Personal Access Token, expands work PRs to show individual contributions, stores coding data in Notion with Work/Personal classification, and creates all-day calendar events on separate calendars, enabling visual development tracking through a two-script pipeline that transforms GitHub activity into organized scheduling.
+
 ### [calendar-sleep-sync](https://github.com/jonbrick/calendar-sleep-sync)
 
 This Node.js automation system fetches Oura sleep sessions via Personal Access Token, stores comprehensive biometric data (sleep stages, HRV, heart rate) in Notion databases with intelligent "Night of Date" attribution logic, and creates categorized Google Calendar events on separate Early Bird vs Night Owl calendars based on wake times, enabling visual sleep pattern tracking through a two-script pipeline that transforms raw sleep data into organized calendar scheduling with rich health analytics.
